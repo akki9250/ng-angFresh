@@ -6,3 +6,7 @@
 .active {
   background-color: #0c5460;
 }
+.table tr.active td {
+  background-color:#561212 !important;
+  color: white;
+}
